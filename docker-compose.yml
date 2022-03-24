@@ -10,7 +10,6 @@ services:
       - ./html:/var/www/html
     ports:
       - 8080:80
-    #network_mode: php-mysql #作成したカスタムネットワークの名前
     restart: always
 
   db1:
@@ -27,7 +26,6 @@ services:
       - ./mysql/data:/var/lib/mysql
     ports:
       - 3306:3306
-    #network_mode: php-mysql #作成したカスタムネットワークの名前
     restart: always
 
 networks:
