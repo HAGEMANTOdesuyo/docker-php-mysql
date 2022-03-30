@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS                  PORTS     NAMES
+e8600e676ee8   3c9f5e3fbd26   "/bin/sh -c 'apt-get…"   5 days ago   Exited (1) 5 days ago             happy_moore
+32f981eca8e9   3c9f5e3fbd26   "/bin/sh -c 'apt-get…"   5 days ago   Exited (1) 5 days ago             modest_ellis
+33afdb888ec1   3c9f5e3fbd26   "/bin/sh -c 'apt-get…"   5 days ago   Exited (1) 5 days ago             priceless_goodall
+4cea9b14ad00   3c9f5e3fbd26   "/bin/sh -c 'apt-get…"   5 days ago   Exited (1) 5 days ago             busy_zhukovsky
