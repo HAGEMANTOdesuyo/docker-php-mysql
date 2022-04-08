@@ -2,15 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>html tenplate</title>
+<title>html template</title>
 </head>
 <body>
-<?php
-$test='今日はいい天気ですね';
-print 'Hello, world!!'.'<br/>';
-print 'こんにちは!!' .'<br/>';
-print $test;
-?>
+
+  商品が選択されていません。<br/>
+  <a href="pro_list.php">戻る<a/>
 
 </body>
 </html>
